@@ -1,7 +1,3 @@
-Software engineer at Apple, working on backend services for iCloud security. Previously a quantitative developer at Millennium. Stanford, Math and CS.
-
-Site: [allenwang0.github.io](https://allenwang0.github.io)
-
 ### Systems and C++
 
 - [limitorderbook](https://github.com/allenwang0/limitorderbook): a matching engine that fills orders by price, then arrival time, with constant-time cancels. The flat-array version handles 59 million messages a second and is checked against a reference book over 2 million random operations.
